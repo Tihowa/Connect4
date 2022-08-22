@@ -1,0 +1,12 @@
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\bin\Debug\net5.0\Connect4Library.deps.json
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\bin\Debug\net5.0\Connect4Library.dll
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\bin\Debug\net5.0\ref\Connect4Library.dll
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\bin\Debug\net5.0\Connect4Library.pdb
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\obj\Debug\net5.0\Connect4Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\obj\Debug\net5.0\Connect4Library.AssemblyInfoInputs.cache
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\obj\Debug\net5.0\Connect4Library.AssemblyInfo.cs
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\obj\Debug\net5.0\Connect4Library.csproj.CoreCompileInputs.cache
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\obj\Debug\net5.0\Connect4Library.dll
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\obj\Debug\net5.0\ref\Connect4Library.dll
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\obj\Debug\net5.0\Connect4Library.pdb
+D:\Tikhon\Proga\C#\Connect4\Connect4Library\obj\Debug\net5.0\Connect4Library.csproj.AssemblyReference.cache
